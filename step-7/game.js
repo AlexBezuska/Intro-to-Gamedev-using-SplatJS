@@ -32,10 +32,10 @@ game.scenes.add("title", new Splat.Scene(canvas, function() {
 	this.player = new Splat.AnimatedEntity( 450, 250, playerSprite.width, playerSprite.height, playerSprite, 0, 0 );
 	this.player.angle = 0;
 
-	var scene = this;
-	scene.food = [];
-	this.foodSprite = game.animations.get("food");
-	
+  this.food = [];
+  this.foodSprite = game.animations.get("food");
+  makeFood(this.food, this.foodSprite);
+
 
 }, function(time) {
 	// simulation
@@ -64,8 +64,7 @@ game.scenes.add("title", new Splat.Scene(canvas, function() {
 
 	keepOnScreen(this.player);
 
-	makeFood(scene.food, scene.foodSprite);
-
+	
 }, function(context) {
 	// draw
   	
