@@ -99,9 +99,10 @@ function rotate(entity, direction, speed){
 }
 		
 function moveForward(entity, speed){
-	entity.vx = speed * Math.cos(entity.angle);
-	entity.vy = speed * Math.sin(entity.angle);
+	entity.vx = speed * Math.cos(entity.angle * (Math.PI /180));
+	entity.vy = speed * Math.sin(entity.angle * (Math.PI /180));
 }	
+	
 
 function drawMultiple(context, array){
 	for(var i = 0; i < array.length; i++){
