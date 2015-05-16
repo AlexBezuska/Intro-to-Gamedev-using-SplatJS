@@ -1,35 +1,33 @@
 var canvas = document.getElementById("canvas");
-var manifest = {
-	"images":{},
-	"animations":{
-		"player": {
-			"strip": "http://s29.postimg.org/t9bmce5g7/shark_head_f10.png",
-			"frames": 10,
-			"msPerFrame": 80
-		},
-	},
-	"sounds": {}
+var assets = {
+  "images":{},
+  "animations":{
+  	"background": {
+			"strip": "../shared/images/background.png",
+			"frames": 1,
+			"msPerFrame": 1	
+		}
+  },
+  "sounds": {}
 };
-var game = new Splat.Game(canvas, manifest);
+var game = new Splat.Game(canvas, assets);
 
 
 game.scenes.add("title", new Splat.Scene(canvas, function() {
-// start
-	var playerSprite = game.animations.get("player");
-	this.player = new Splat.AnimatedEntity(0 ,0 , playerSprite.width, playerSprite.height, playerSprite, 0, 0);
+	// setup
+	var backgroundImage = game.animations.get("background");
+	this.background = new Splat.AnimatedEntity(0, 0, backgroundImage.width, backgroundImage.height, backgroundImage, 0, 0);
 
-
-}, function(time) {
-// run
-	this.player.move(time);
+}, function() {
+	// simulation
 
 }, function(context) {
-// draw
-
-	context.fillStyle = "green";
-	context.fillRect(0, 0, canvas.width, canvas.height);
-	this.player.draw(context);
+	// draw
+  	
+  	this.background.draw(context);
 
 }));
+
+
 
 game.scenes.switchTo("loading");

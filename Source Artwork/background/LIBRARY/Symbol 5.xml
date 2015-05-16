@@ -1,0 +1,83 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 5" itemID="55561b58-0000034a" lastModified="1431706853" lastUniqueIdentifier="10">
+  <timeline>
+    <DOMTimeline name="Symbol 5">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 3" centerPoint3DX="25.15" centerPoint3DY="63.95">
+                  <matrix>
+                    <Matrix ty="37.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.05" y="13.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Symbol 3" centerPoint3DX="31.3" centerPoint3DY="28.3">
+                  <matrix>
+                    <Matrix a="-0.122543334960938" b="0.992431640625" c="-0.992431640625" d="-0.122543334960938" tx="60.15" ty="6.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.05" y="13.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Symbol 3" centerPoint3DX="67.7" centerPoint3DY="35">
+                  <matrix>
+                    <Matrix a="-0.9998779296875" b="0.012908935546875" c="-0.012908935546875" d="-0.9998779296875" tx="93.1" ty="60.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.05" y="13.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Symbol 3" centerPoint3DX="62.7" centerPoint3DY="68.55">
+                  <matrix>
+                    <Matrix a="-0.13494873046875" b="-0.990814208984375" c="0.990814208984375" d="-0.13494873046875" tx="40.55" ty="96.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40" y="13.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Symbol 4" centerPoint3DX="46.45" centerPoint3DY="49.4">
+                  <matrix>
+                    <Matrix tx="32.85" ty="36.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.6" y="12.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.0313725490196078"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!1722 406[1710 387 1686 380!1686 380[1562 340 1557 198!1557 198[1557 185 1534 181!1534 181[1494 175 1453 167!1453 167[1348 149 1245 131!1245 131[1191 122 1135 131!1135 131[1123 132 1111 142!1111 142[1076 173 1006 217!1006 217[988 229
+ 976 251!976 251[963 277 953 297!953 297[955 232 947 169!947 169[944 155 935 142!935 142[888 80 817 49!817 49[803 45 792 31!792 31[759 -10 666 -5!666 -5[597 -1 527 11!527 11[492 18 466 35!466 35[454 46 449 65!449 65[432 146 372 174!372
+ 174[351 184 342 205!342 205[283 322 141 307!141 307[129 305 121 327!121 327[110 366 97 403!97 403[64 505 33 603!33 603[16 655 17 710!17 710[16 722 25 734!25 734[52 774 86 848!86 848[95 867 115 882!115 882[154 909 181 925!181 925[207
+ 941 237 953!237 953[276 968 316 984!316 984[179 976 54 1007!54 1007[41 1011 30 1021!30 1021[-27 1076 -50 1148!-50 1148[-53 1162 -65 1174!-65 1174[-102 1213 -85 1302!-85 1302[-72 1371 -52 1437!-52 1437[-41 1470 -21 1494!-21 1494[-9 1505
+ 13 1507!13 1507[96 1514 132 1569!132 1569[144 1588 167 1594!167 1594[292 1638 293 1778!293 1778[293 1791 316 1795!316 1795[356 1803 398 1811!398 1811[502 1829 606 1848!606 1848[659 1859 715 1851!715 1851[727 1850 739 1840!739 1840[775
+ 1809 846 1766!846 1766[864 1755 876 1733!876 1733[899 1693 912 1663!912 1663[925 1636 933 1605!933 1605[943 1571 951 1536!951 1536[960 1543 969 1550!969 1550[975 1535 985 1520!985 1520[985 1545 987 1567!987 1567[998 1710 1048 1831!1048
+ 1831[1052 1845 1064 1853!1064 1853[1129 1901 1203 1914!1203 1914[1218 1915 1231 1926!1231 1926[1277 1958 1364 1930!1364 1930[1430 1907 1494 1878!1494 1878[1527 1863 1546 1840!1546 1840[1557 1826 1555 1805!1555 1805[1551 1725 1602 1682
+!1602 1682[1619 1667 1624 1643!1624 1643[1649 1515 1791 1495!1791 1495[1804 1493 1804 1470!1804 1470[1807 1430 1809 1389!1809 1389[1814 1285 1817 1182!1817 1182[1820 1128 1806 1074!1806 1074[1803 1062 1793 1051!1793 1051[1764 1027 1725
+ 983!1725 983[1767 977 1806 967!1806 967[1820 961 1831 952!1831 952[1889 897 1909 823!1909 823[1914 809 1923 798!1923 798[1960 758 1944 669!1944 669[1929 601 1907 536!1907 536[1896 502 1876 479!1876 479[1863 467 1842 465!1842 465[1759
+ 460 1722 406"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

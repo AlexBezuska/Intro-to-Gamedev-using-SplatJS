@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="foot" itemID="5555fb22-00000255" lastModified="1431698981">
+  <timeline>
+    <DOMTimeline name="foot">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#9A3D5C"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1392 278[1556 556 1561 950!1561 950[1566 1344 1397 1622!1397 1622[1228 1900 851 1900!851 1900[474 1900 245 1622!245 1622[15 1344 1 950!1 950[-13 556 231 278!231 278[474 0 851 0!851 0[1228 0 1392 278"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

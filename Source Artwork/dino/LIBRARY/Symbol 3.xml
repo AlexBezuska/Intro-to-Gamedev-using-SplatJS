@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 3" itemID="5555ff1a-000002ce" lastModified="1431699394" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="Symbol 3">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#BE5679"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#990000"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#E41010"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!3706 1084[3974 #4DA.2D 3974 1382!3974 1382[3974 1588 3458 1537!3458 1537[2942 1485 2208 1460!2208 1460[1474 1435 737 1587!737 1587[0 1738 0 1457!0 1457[0 #4F2.7C 267.5 1089"/>
+                    <Edge fillStyle1="2" edges="!267.5 1089[#E1.EE #402.4A 225 934!225 934[221 636 611 414!611 414[1001 192 1609 47!1609 47[2217 -98 3030 202!3030 202[3842 501 3877 837!3877 837[#F36.07 #3E8.75 3706 1084"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="!2803.5 753[#C33.7C #330.0B 3392 930!3392 930[#DFA.F7 #3F1.07 3706 1084"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="!1299 722[#517.5D #200.02 1511 357!1511 357[1728 196 2040 189!2040 189[2352 182 2576 334!2576 334[2800 486 2805 708!2805 708[#AF5.84 #2DA.EA 2803.5 753"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="!1299 722[#652.E3 #2A0.DE 1987 676!1987 676[#97E.4C #2A7.C5 2803.5 753"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="!267.5 1089[#18A.98 #3EC.78 582 923!582 923[#387.AF #30E.9C 1299 722"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="horm" centerPoint3DX="101" centerPoint3DY="63.35">
+                  <matrix>
+                    <Matrix a="0.925262451171875" d="0.244293212890625" tx="83.1" ty="52.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="19.35" y="43.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

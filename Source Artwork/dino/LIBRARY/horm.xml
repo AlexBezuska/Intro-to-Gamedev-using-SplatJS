@@ -1,0 +1,34 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="horm" itemID="5555fd35-000002ab" lastModified="1431698791">
+  <timeline>
+    <DOMTimeline name="horm">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#F4EFC6"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#F4F2DE"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="2" edges="!211 7.5[#109.FF #FFFFF0.33 356 34.5"/>
+                    <Edge fillStyle1="1" edges="!356 34.5[#186.84 #35.FD 430 84!430 84|775 1513!775 1513[#2D2.21 #630.8F 668.5 1635"/>
+                    <Edge fillStyle1="2" edges="!668.5 1635[#1BB.7 #734.D 202 1683"/>
+                    <Edge fillStyle1="1" edges="!202 1683[#66.78 #650.36 0 1486!0 1486|124 239!124 239[#81.2D #2A.67 211 7.5"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="!211 7.5|202 1683"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!356 34.5|668.5 1635"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

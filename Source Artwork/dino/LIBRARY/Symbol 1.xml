@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 1" itemID="5555fd1d-000002a3" lastModified="1431698717">
+  <timeline>
+    <DOMTimeline name="Symbol 1">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!706 258S6[708 368 606 447!606 447[505 526 359 529!359 529[213 533 107 458!107 458[2 384 0 274!0 274[-2 164 99 84!99 84[201 4 347 0!347 0[493 -3 598 72!598 72[704 148 706 258"/>
+                    <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!415 418S7[370 441 306 442!306 442[242 444 196 423!196 423[150 403 149 372!149 372[149 341 194 318!194 318[239 296 303 294!303 294[367 293 413 313!413 313[459 334 459 365!459 365[460 396 415 418"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,54 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 2" itemID="5555feea-000002c3" lastModified="1431699209" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="Symbol 2">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#BE5679"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!3167 929.5[#EA5.05 #498.12 3749 1382!3749 1382[#EA4.DD #633.E 3233 1536.5!3233 1536.5[#A9D.45 #5CD.3D 1983 1460!1983 1460[#4E0.AC #59A.B8 512 1586.5!512 1586.5[#FFFF1F.1B #6CA.17 -225 1457!-225 1457[-225 #497.F2 357 922.5!357 922.5[939
+ #29D.28 1762 676!1762 676[#A18.FE #2AA.D6 3167 929.5"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="horm" centerPoint3DX="89.75" centerPoint3DY="63.35">
+                  <matrix>
+                    <Matrix a="0.925262451171875" d="0.244293212890625" tx="71.85" ty="52.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="19.35" y="43.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#333333"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!0 934[-4 636 386 414!386 414[776 192 1384 47!1384 47[1992 -98 2805 202!2805 202[3617 501 3652 837!3652 837[3687 1173 2855 1171!2855 1171[2022 1168 1440 1188!1440 1188[857 1208 430 1220!430 1220[3 1232 0 934"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

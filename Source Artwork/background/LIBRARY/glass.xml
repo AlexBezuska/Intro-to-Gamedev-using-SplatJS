@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="glass" itemID="555619ce-0000031a" lastModified="1431706337">
+  <timeline>
+    <DOMTimeline name="glass">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#97B585"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#8EAA7D"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="2" edges="!451.5 1676[#1C1.19 #6A6.46 445 1725.5!445 1725.5|434 1772!434 1772[#191.9D #60A.C9 327 1273!327 1273[307 483 0 0!0 0[#56.34 #59.3A 161.5 196"/>
+                    <Edge fillStyle1="1" edges="!161.5 196[#1B3.15 #248.1C 515 1207!515 1207|451.5 1676"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="!451.5 1676[#1EB.46 #4F9.0A 161.5 196"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

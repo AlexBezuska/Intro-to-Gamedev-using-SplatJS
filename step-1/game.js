@@ -1,22 +1,26 @@
 var canvas = document.getElementById("canvas");
-var manifest = {
+var assets = {
   "images":{},
   "animations":{},
   "sounds": {}
 };
-var game = new Splat.Game(canvas, manifest);
+var game = new Splat.Game(canvas, assets);
 
 
-game.scenes.add("main", new Splat.Scene(canvas, function() {
-	// start
+game.scenes.add("title", new Splat.Scene(canvas, function() {
+	// setup
+
 }, function() {
-	// run
+	// simulation
+
 }, function(context) {
 	// draw
   
-	context.fillStyle = "green";
+	context.fillStyle = "#F4EFC6";
 	context.fillRect(0, 0, canvas.width, canvas.height);
 
 }));
 
-game.scenes.switchTo("main");
+
+
+game.scenes.switchTo("loading");

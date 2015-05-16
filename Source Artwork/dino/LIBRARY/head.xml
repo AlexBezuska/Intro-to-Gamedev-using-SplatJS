@@ -1,0 +1,123 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="head" itemID="5555fb37-00000260" lastModified="1431698925" lastUniqueIdentifier="6">
+  <timeline>
+    <DOMTimeline name="head">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="horm" centerPoint3DX="95.65" centerPoint3DY="149.15">
+                  <matrix>
+                    <Matrix a="0.989151000976562" b="-0.146896362304688" c="0.146896362304688" d="0.989151000976562" tx="70.2" ty="108.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.75" y="74.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="horm" centerPoint3DX="208.7" centerPoint3DY="145.4">
+                  <matrix>
+                    <Matrix a="0.976455688476562" b="0.215713500976562" c="-0.215713500976562" d="0.976455688476562" tx="199.25" ty="98.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="19.95" y="72.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="horm" centerPoint3DX="152.25" centerPoint3DY="57.6">
+                  <matrix>
+                    <Matrix a="0.925262451171875" d="0.244293212890625" tx="134.35" ty="46.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="19.35" y="43.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="eye" centerPoint3DX="80.7" centerPoint3DY="111.35">
+                  <matrix>
+                    <Matrix a="1.38888549804688" d="1.38888549804688" tx="51.6" ty="78.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.95" y="23.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Symbol 1" centerPoint3DX="76.05" centerPoint3DY="99.75">
+                  <matrix>
+                    <Matrix tx="58.4" ty="86.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.65" y="13.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="eye" centerPoint3DX="222.8" centerPoint3DY="111.1">
+                  <matrix>
+                    <Matrix a="-1.38888549804688" d="1.38888549804688" tx="251.9" ty="78.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.95" y="23.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Symbol 1" centerPoint3DX="227.45" centerPoint3DY="99.5">
+                  <matrix>
+                    <Matrix a="-1" tx="245.1" ty="86.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.65" y="13.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#BC5879"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#B24E6F"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1628.5 397[#668.BE #184.83 1653 380!1653 380[2258 -41 3107 4!3107 4[3955 47 4480 401!4480 401[5004 754 5072 1279!5072 1279[5141 1803 5138 1897!5138 1897[#14C1.5F #80D.AC 5437.5 2242.5"/>
+                    <Edge fillStyle1="2" edges="!5437.5 2242.5[#1663.91 #A6D.C5 5740 3187!5740 3187[5795 3226 5845 3275!5845 3275[6064 3494 6064 3804!6064 3804[6064 #FB1.D8 5960 4187.5"/>
+                    <Edge fillStyle1="1" edges="!5960 4187.5[#1718.EE #10A7.B1 5845 4331!5845 4331[#160F.E8 #11B0.FF 5376.5 4548!5376.5 4548[#14E3.A2 4550 5318 4550!5318 4550[5229 4550 5148 4533!5148 4533[5117 4563 5084 4593!5084 4593[5119 4701 5119 4824!5119 4824[5119 #1391.33 5041
+ 5161!5041 5161[#137C.2B #148F.A3 4900 5351!4900 5351[4682 5570 4372 5570!4372 5570[#102A.77 5570 3957 5445.5!3957 5445.5[#F39.C6 #151D.05 3844 5351!3844 5351[3800 5308 3765 5261!3765 5261[3758 5251 3750 5239!3750 5239[3750 5243 3750
+ 5247!3750 5247[3750 5256 3750 5264!3750 5264[#EA0.13 #15B7.3E 3536.5 5768.5!3536.5 5768.5[#DCD.AE #168B.59 3531 5774!3531 5774[3329 5978 3047 5992!3047 5992|3047 5993!3047 5993[3040 5993 3032 5993!3032 5993[3024 5992 3016 5992!3016 5992
+[2734 5977 2532 5774!2532 5774[#95F.F5 #160A.94 2348 5477!2348 5477[#90C.43 #1500.C5 2314 5264!2314 5264[2314 5256 2314 5247!2314 5247[2314 5243 2314 5239!2314 5239[2306 5251 2299 5261!2299 5261[2264 5308 2220 5351!2220 5351[#834.2D #155E.D3
+ 1953.5 5525!1953.5 5525[#727.EF 5570 1692 5570!1692 5570[1382 5570 1164 5351!1164 5351[#3E0.0A #143C.9C 955 4953!955 4953[945 #131A.95 945 4824!945 4824[945 4701 980 4593!980 4593[946 4563 915 4533!915 4533[#361.5D #11BF.8C 812.5 4547.5
+!812.5 4547.5[#30B.C7 4550 746 4550!746 4550[436 4550 219 4331!219 4331[#82.92 #1093.6 78 4140.5"/>
+                    <Edge fillStyle1="2" edges="
+!78 4140.5[0 #F94.D3 0 3804!0 3804[0 3494 219 3275!219 3275[269 3226 323 3187!323 3187[#14E.72 #9DC.EC 813 2010.5"/>
+                    <Edge fillStyle1="1" edges="
+!813 2010.5[#388.DD #777.A2 1014 1818!1014 1818[#407.CC #70B.0A 1050 1788!1050 1788[1048 1757 1048 1727!1048 1727[1048 #6BA.17 1048 1717"/>
+                    <Edge fillStyle1="2" edges="
+!1048 1717[#41B.23 #330.81 1628.5 397"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!5437.5 2242.5[#1540.6D #917.0A 5457 2408!5457 2408[5468 2461 5492 2511!5492 2511[5562 2658 5544 2835!5544 2835[5525 3018 5481 3190!5481 3190[5469 3241 5447 3291!5447 3291[5415 3363 5398 3414!5398 3414[5394 3427 5401 3434!5401 3434[5439
+ 3471 5478 3505!5478 3505[5521 3543 5563 3582!5563 3582[5639 3653 5721 3718!5721 3718[5895 3856 5941 4076!5941 4076[#1740.79 #1023.B8 5960 4187.5"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!1628.5 397[#637.B8 #1E5.E3 1569 582!1569 582[1561 620 1553 657!1553 657[1531 776 1524 893!1524 893[1506 1207 1744 1399!1744 1399[1769 1419 1781 1441!1781 1441[1793 1462 1813 1478!1813 1478[1868 1521 1902 1552!1902 1552[1913 1561 1925
+ 1569!1925 1569[1935 1576 1947 1582!1947 1582[1976 1596 1995 1604!1995 1604[1978 1632 1920 1627!1920 1627[1847 1621 1774 1623!1774 1623[1641 1626 1509 1626!1509 1626[1405 1625 1322 1669!1322 1669[1305 1678 1287 1686!1287 1686[1268 1694
+ 1247 1699!1247 1699[1172 1720 1084 1718!1084 1718[#42A.06 #6B5.8A 1048 1717!813 2010.5[#2AA.47 #887.17 640 2399!640 2399[612 2544 610 2695!610 2695[608 2805 606 2916!606 2916[605 2961 636 2994!636 2994[672 3031 693 3105!693 3105[720
+ 3200 748 3296!748 3296[#2F3.14 #CF9.F4 781.5 3324.5!781.5 3324.5[#273.2B #D00.88 473 3339!473 3339[458 3340 444 3349!444 3349[345 3418 297 3526!297 3526[293 3535 286 3542!286 3542[279 3550 274 3558!274 3558[210 3657 164 3754!164 3754
+[152 3781 143 3809!143 3809[#5E.49 #F83.B5 78 4140.5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

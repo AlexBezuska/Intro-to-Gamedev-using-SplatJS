@@ -1,0 +1,35 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="body" itemID="5555fb3d-00000264" lastModified="1431699018">
+  <timeline>
+    <DOMTimeline name="body">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#BC5879"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#AE4C6C"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!4695.5 2907[#1236.2E #B71.DE 4633 2962!4633 2962[4587 3012 4526 3045!4526 3045[4418 3104 4297 3125!4297 3125[4222 3138 4147 3154!4147 3154[4016 3184 3894 3239!3894 3239[3821 3272 3741 3293!3741 3293[3473 3365 3196 3372!3196 3372[2960
+ 3379 2725 3385!2725 3385[2450 3391 2179 3341!2179 3341[1893 3289 1605 3239!1605 3239[1530 3227 1456 3205!1456 3205[1272 3152 1087 3090!1087 3090[991 3058 894 3043!894 3043[848 3036 803 3016!803 3016[645 2947 494 2869!494 2869[343 2791
+ 247 2662!247 2662[#F0.8A #A5D.D7 234 2645.5"/>
+                    <Edge fillStyle0="1" edges="
+!234 2645.5[#68.BE #C4E.91 40 3714!40 3714[-136 5236 463 6325!463 6325[1061 7413 2544 7459!2544 7459[4026 7505 4548 6405!4548 6405[5069 5305 4852 3748!4852 3748[#12B6.D8 #CED.31 4695.5 2907"/>
+                    <Edge fillStyle1="2" edges="
+!234 2645.5[#1C6.5B #6F9.89 862 1095!862 1095[1510 0 2425 0!2425 0[3340 0 3987 1095!3987 1095[#1164.6 #75A.1D 4695.5 2907"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
