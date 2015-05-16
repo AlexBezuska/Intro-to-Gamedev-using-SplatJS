@@ -11,6 +11,11 @@ Let's create a simple game where a baby dinosaur has to eat fruit. Using the Spl
 
 
 #Resources
+
+
+#[Velocity Kids Codepen Signup](https://docs.google.com/forms/d/1PLbxnpzasREP0YvWKkCPQcf-4G1P_VUwmxE0YB9Vk-E/viewform)
+
+
 [SplatJS Documentation](http://splatjs.github.io/)
 
 [Splat Classic 3 with rotation](http://cdn.alexbezuska.com/js/splat-3.0.2.min.js)
