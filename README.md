@@ -1,5 +1,11 @@
-# Intro to game programming pt 2
+### Ferdinand Loves Berries
+a SplatJS game tutorial by Alex Bezuska
 
-In the first installment of this class we learned several of the basic building blocks of game programming, and programming in general.
-In this class we will expand on the game we started, adding our own custom sound effects, sprite characters, and background.
-We will use all free and open source tools making it easy to continue working on our games at home. Bring your imagination!
+
+Let's create a simple game where a baby dinosaur has to eat fruit. Using the SplatJS JavaScript game engine we will create a browser game with:
+
+- Keyboard controls
+- Animated sprites
+- Sprite rotation
+- Score Keeping
+

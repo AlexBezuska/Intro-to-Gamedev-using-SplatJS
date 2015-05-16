@@ -1,5 +1,6 @@
-### SplatJS collecting game
-by Alex Bezuska
+### Ferdinand Loves Berries
+a SplatJS game tutorial by Alex Bezuska
+
 
 
 #Step 11 - Adding score
@@ -7,7 +8,7 @@ by Alex Bezuska
 - Using the centerText function
 - canvas fillStyle and font
 - add score global variable
-- increment score when player collides with fruit
+- increment score when player collides with a berry
 
 
 ####What Increment and Decrement mean in programming

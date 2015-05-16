@@ -1,5 +1,6 @@
-### SplatJS collecting game
-by Alex Bezuska
+### Ferdinand Loves Berries
+a SplatJS game tutorial by Alex Bezuska
+
 
 
 #Step 8 - How Timers work in SplatJS

@@ -1,5 +1,5 @@
-### SplatJS collecting game
-by Alex Bezuska
+### Ferdinand Loves Berries
+a SplatJS game tutorial by Alex Bezuska
 
 
 #Step 7 - Adding Food to the Screen

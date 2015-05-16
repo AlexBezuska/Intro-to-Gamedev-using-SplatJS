@@ -1,11 +1,11 @@
-### SplatJS collecting game
-by Alex Bezuska
+### Ferdinand Loves Berries
+a SplatJS game tutorial by Alex Bezuska
 
 
-#Step 13 - Make fruit rotate
+#Step 13 - Make berries rotate
 
-- Add a starting angle to each fruit using the randomRange function between 0 and 360
-- turn all fruit right 1 degree every frame
+- Add a starting angle to each berry using the randomRange function between 0 and 360
+- turn all berries right 1 degree every frame
 
 
 

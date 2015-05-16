@@ -1,12 +1,12 @@
-### SplatJS collecting game
-by Alex Bezuska
+### Ferdinand Loves Berries
+a SplatJS game tutorial by Alex Bezuska
 
 
-#Step 10 - Let the player eat fruit!
+#Step 10 - Let the player eat berries!
 
-- Loop over all fruit each frame
-- check if player is colliding with any of the fruit in the array
-- if player is touching a fruit, splice(remove) it from the array
+- Loop over all berries each frame
+- check if player is colliding with any of the berries in the array
+- if player is touching a berry, splice(remove) it from the array
 
 
 ####JavaScript Array Splice Explanation
