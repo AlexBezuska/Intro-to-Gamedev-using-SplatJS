@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="eye-closed" itemID="5556bd38-0000052a" lastModified="1431747896">
+  <timeline>
+    <DOMTimeline name="eye-closed">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#953B59"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!346 876S2[324 1025 267 911!267 911[232 842 233 758!233 758[237 385 17 93!17 93[-21 43 27 8!27 8[55 -11 79 16!79 16[128 74 179 132!179 132[406 468 346 876"/>
+                    <Edge cubics="!79 16(;112,55 145,93 179,132q79 16Q128 74q179 132);"/>
+                    <Edge cubics="!27 8(;46,-5 63,-2 79,16q27 8Q55 -11q79 16);"/>
+                    <Edge cubics="!17 93(;-8,60 -5,31 27,8q17 93Q-21 43q27 8);"/>
+                    <Edge cubics="!346 876(;331,975 305,987 267,911q346 876Q324 1025q267 911);"/>
+                    <Edge cubics="!267 911(;244,865 232,814 233,758q267 911Q232 842q233 758);"/>
+                    <Edge cubics="!233 758(;236,509 164,288 17,93q233 758Q237 385q17 93);"/>
+                    <Edge cubics="!179 132(;330,356 386,604 346,876q179 132Q406 468q346 876);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

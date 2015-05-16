@@ -1,6 +1,5 @@
 var canvas = document.getElementById("canvas");
 var assets = {
-  "images":{},
   "animations":{
   	"background": {
 			"strip": "../shared/images/background.png",
