@@ -2,6 +2,9 @@
 a SplatJS game tutorial by Alex Bezuska
 
 
+http://codepen.io/AlexBezuska/pen/aOZdNm
+
+
 #Step 10 - Let the player eat berries!
 
 - Loop over all berries each frame

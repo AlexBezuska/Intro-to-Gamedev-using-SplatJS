@@ -2,6 +2,7 @@
 a SplatJS game tutorial by Alex Bezuska
 
 
+http://codepen.io/AlexBezuska/pen/ZGOQWY
 
 #Step 8 - How Timers work in SplatJS
 

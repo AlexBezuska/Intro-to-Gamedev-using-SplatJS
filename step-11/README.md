@@ -2,6 +2,8 @@
 a SplatJS game tutorial by Alex Bezuska
 
 
+http://codepen.io/AlexBezuska/pen/doXGMz
+
 
 #Step 11 - Adding score
 

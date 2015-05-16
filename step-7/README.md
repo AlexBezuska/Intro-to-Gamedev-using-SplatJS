@@ -1,6 +1,7 @@
 ### Ferdinand Loves Berries
 a SplatJS game tutorial by Alex Bezuska
 
+http://codepen.io/AlexBezuska/pen/RPRrrQ
 
 #Step 7 - Adding Food to the Screen
 - Add makeFood function

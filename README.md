@@ -13,25 +13,25 @@ Let's create a simple game where a baby dinosaur has to eat fruit. Using the Spl
 #Resources
 [SplatJS Documentation](http://splatjs.github.io/)
 
-[Splat Classic 3 with rotation](https://raw.githubusercontent.com/AlexBezuska/Ferdinand-Loves-Berries/master/shared/splat-3.0.2.min.js)
+[Splat Classic 3 with rotation](http://cdn.alexbezuska.com/js/splat-3.0.2.min.js)
 
 ### Art assets
-![Ferdinand Loves Berries - Background ](https://raw.githubusercontent.com/AlexBezuska/Ferdinand-Loves-Berries/master/shared/images/background.png)
+![Ferdinand Loves Berries - Background ](http://cdn.alexbezuska.com/images/background.png)
 
-https://raw.githubusercontent.com/AlexBezuska/Ferdinand-Loves-Berries/master/shared/images/background.png
+http://cdn.alexbezuska.com/images/background.png
 
-![Ferdinand Loves Berries - Ferdinand the baby dinosaur ](https://raw.githubusercontent.com/AlexBezuska/Ferdinand-Loves-Berries/master/shared/images/dino.png)
+![Ferdinand Loves Berries - Ferdinand the baby dinosaur ](http://cdn.alexbezuska.com/images/dino.png)
 
-https://raw.githubusercontent.com/AlexBezuska/Ferdinand-Loves-Berries/master/shared/images/dino.png
+http://cdn.alexbezuska.com/images/dino.png
 
-![Ferdinand Loves Berries - berry ](https://raw.githubusercontent.com/AlexBezuska/Ferdinand-Loves-Berries/master/shared/images/fruit.png)
+![Ferdinand Loves Berries - berry ](http://cdn.alexbezuska.com/images/fruit.png)
 
-https://raw.githubusercontent.com/AlexBezuska/Ferdinand-Loves-Berries/master/shared/images/fruit.png
+http://cdn.alexbezuska.com/images/fruit.png
 
 
-![Ferdinand Loves Berries - scoreStone ](https://raw.githubusercontent.com/AlexBezuska/Ferdinand-Loves-Berries/master/shared/images/score-stone.png)
+![Ferdinand Loves Berries - scoreStone ](http://cdn.alexbezuska.com/images/score-stone.png)
 
-https://raw.githubusercontent.com/AlexBezuska/Ferdinand-Loves-Berries/master/shared/images/score-stone.png
+http://cdn.alexbezuska.com/images/score-stone.png
 
 
 ###### Create your own pixel art and save it using these online tools:

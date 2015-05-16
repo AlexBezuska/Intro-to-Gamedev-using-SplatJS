@@ -1,7 +1,7 @@
 ### Ferdinand Loves Berries
 a SplatJS game tutorial by Alex Bezuska
 
-
+http://codepen.io/AlexBezuska/pen/yNJeNm
 
 #Step 2
 - Assets
