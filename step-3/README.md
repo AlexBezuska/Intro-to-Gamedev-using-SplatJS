@@ -1,4 +1,4 @@
-### Ferdinand Loves Berries
+### Intro to #GameDev using SplatJS
 a SplatJS game tutorial by Alex Bezuska
 
 http://codepen.io/AlexBezuska/pen/PqzZPB
