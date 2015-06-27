@@ -105,14 +105,6 @@ function makeFood(array, sprite) {
 
 
 
-
-
-
-
-
-
-
-
 //Alex's Useful tools
 
 function fillScreen(context, color){
