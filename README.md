@@ -19,7 +19,7 @@ Let's create a simple game where a baby dinosaur has to eat fruit. Using the Spl
 
 [Splat Classic 3 with rotation](http://cdn.alexbezuska.com/js/splat-3.0.2.min.js)
 
-### Art assets fort his game
+### Art assets for this game
 ![Ferdinand Loves Berries - Background ](http://cdn.alexbezuska.com/images/background.png)
 
 http://cdn.alexbezuska.com/images/background.png
